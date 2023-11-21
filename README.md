@@ -1,2 +1,2 @@
 # bootstrap-example
-some bootstrap newbie stuff
+bootstrap trying
